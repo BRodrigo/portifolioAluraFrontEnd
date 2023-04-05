@@ -1,0 +1,40 @@
+.container{
+    background: #800080;
+    height: 250px;
+    display: flex;
+    justify-content:space-between;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    border-top: 10px solid blue;
+    
+}
+
+.flex_item1 {
+    background-color: orange;
+    width: 300px;
+    margin: 15px;
+}
+
+.flex_item2 {
+    background-color: orange;
+    width: 300px;
+    margin: 15px;
+}
+
+.flex_item3 {
+    background-color: orange;
+    width: 300px;
+    margin: 15px;
+}
+
+.nome{
+    width: 280px;
+
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 40px 0;
+    text-decoration: none;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+}
